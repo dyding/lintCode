@@ -1,0 +1,10 @@
+Solution1:
+	反转一个只有3位数的整数
+Solution2:
+	小写字母转大写字母
+Solution4:
+	删除链表中的所有等于给定值的元素
+Solution5:
+	数组排序
+Solution8:
+	找出二叉树中最大值的节点
